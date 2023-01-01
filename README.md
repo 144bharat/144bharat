@@ -1,5 +1,4 @@
-<img align="left" alt="Coding" width="400" style="text-align:center" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
-
+<img align='center' src='https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966' alt='dev_img' width='100%' height="400px" />
 <h1 align="center"> 😇Hi, I'm bharat 👋</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <h3 align="center">A passionate React frontend developer from India. Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h3>
