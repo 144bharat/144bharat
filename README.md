@@ -17,7 +17,7 @@
 
 - 👯 Worked as Freelancer and handled  Live Projects and build beutiful UI/ UX for client companies.
 
-- 🤝Build Coffee Website Project. [Coffee site](https://144cofeeapp.netlify.app/)
+- 🤝Build Coffee Website Project. [Coffee site](https://coffeeapp144.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://144bharat.github.io/](https://144bharat.github.io/)
 
