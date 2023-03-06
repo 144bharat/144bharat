@@ -11,13 +11,13 @@
 
 
 
-- 🔭 I’m currently working on *React js*
+- 🔭 I’m currently working on *Angular Framework*
 
 - 🌱 I’m currently learning *Application of DATA Structures Using Javascript.*
 
 - 👯 Worked as Freelancer and handled  Live Projects and build beutiful UI/ UX for client companies.
 
-- 🤝Build Coffee Website Project. [Coffee site](https://coffee-site-bharat.netlify.app/)
+- 🤝Build Coffee Website Project. [Coffee site](https://144cofeeapp.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://144bharat.github.io/](https://144bharat.github.io/)
 
