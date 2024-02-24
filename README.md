@@ -1,7 +1,7 @@
 <img align='center' src='https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966' alt='dev_img' width='100%' height="400px" />
 <h1 align="center"> 😇Hi, I'm Bharat 👋</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<h3 align="center">A passionate React frontend developer from India. Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h3>
+<h3 align="center">A passionate Angular developer from India. Extensive expertise in website architecture, design, and web design. Knows about Data Structure & Algorithms and Git-Flow.</h3>
 <img align="right" alt="Coding" width="400" style="text-align:center" src="https://camo.githubusercontent.com/6a4048d3cd4d8700f657d0e224f5dcd08ada48b8f2747c656b1f44ed9dae8007/68747470733a2f2f6861636b2e636f64696e67626c6f636b732e636f6d2f5f6e7578742f696d672f6d61696e6769662e313634363032312e676966">
 
 
@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning *Application of DATA Structures Using Javascript.*
 
-- 👯 Worked as Freelancer and handled  Live Projects and build beutiful UI/ UX for client companies.
+- 👯 Worked as a Freelancer and handled  Live Projects and built beautiful UI/ UX for client companies.
 
 - 🤝Build Coffee Website Project. [Coffee site](https://coffeeapp144.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://144bharat.github.io/](https://144bharat.github.io/)
 
-- 💬 Ask me about *C++, DSA, javascript, css, html,Jquery,react js*
+- 💬 Ask me about *C++, DSA, javascript, CSS, Html, JQuery, Angular*
 
 - 📫 How to reach me *144bharatgautam@gmail.com*
 
