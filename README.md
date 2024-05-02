@@ -1,4 +1,3 @@
-<img align='center' src='https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966' alt='dev_img' width='100%' height="400px" />
 <h1 align="center"> 😇Hi, I'm Bharat 👋</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <h3 align="center">A passionate Angular developer from India. Extensive expertise in website architecture, design, and web design. Knows about Data Structure & Algorithms and Git-Flow.</h3>
