@@ -91,9 +91,9 @@ I enjoy turning complex requirements into intuitive user experiences, building r
 
 CineFest provides a responsive movie browsing and streaming experience with **Firebase Authentication, Redux Toolkit state management, Gemini API-powered movie recommendations, and unit and integration testing using React Testing Library**.
 
-**Tech:** React · Redux Toolkit · Tailwind CSS · Firebase Authentication · Gemini API · React Testing Library
+**Tech:** React - Redux Toolkit - Tailwind CSS - Firebase Authentication - Gemini API - React Testing Library
 
-[🔗 Live Demo](https://cine-fest.web.app/browse) · [📂 Source Code](https://github.com/144bharat/CineFest)
+[🔗 Live Demo](https://cine-fest.web.app/) · [📂 Source Code](https://github.com/144bharat/CineFest)
 
 ---
 
@@ -103,7 +103,7 @@ CineFest provides a responsive movie browsing and streaming experience with **Fi
 
 Features restaurant discovery, search and filtering, menu browsing, single-open accordion menus, Redux-powered cart management, checkout flow, animated loading experience and live online/offline status.
 
-**Tech:** React · Redux Toolkit · React Router · Testing Library · JavaScript
+**Tech:** React - Redux Toolkit - React Router - Testing Library - Context Api - JavaScript
 
 [🔗 Live Demo](https://food-hour.netlify.app/) · [📂 Source Code](https://github.com/144bharat/Food-Hour)
 
